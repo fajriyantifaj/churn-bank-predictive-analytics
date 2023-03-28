@@ -1,5 +1,5 @@
-﻿# Data Analytics Churn Costumer In Banking Sector - Fajri yanti
-
+﻿# Data Analytics Churn Costumer In Banking Sector
+ 
 ## Project Domain
 
 Customer churning [1, 2] is the estimate or analysis of degree of customers who turn to shift to an alternative. It is the most common problem witnessed in any industry. Banking is one such industry that focuses a lot on customer’s behavior by tracking their activities
